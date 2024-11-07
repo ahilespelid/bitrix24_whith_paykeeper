@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001730383926';
-$dateexpire = '001730384526';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:1:{s:11:"STATUS_INFO";a:2:{s:8:"ACTIVITY";d:6;s:11:"INVOLVEMENT";i:0;}}s:18:"templateCachedData";a:2:{s:9:"frameMode";b:1;s:6:"__view";a:1:{s:7:"sidebar";a:1:{i:0;a:2:{i:0;s:16833:"
+$datecreate = '001730978962';
+$dateexpire = '001730979562';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:1:{s:11:"STATUS_INFO";a:2:{s:8:"ACTIVITY";i:0;s:11:"INVOLVEMENT";i:0;}}s:18:"templateCachedData";a:2:{s:9:"frameMode";b:1;s:6:"__view";a:1:{s:7:"sidebar";a:1:{i:0;a:2:{i:0;s:16833:"
 <script>
 
 BX.INTRANET_USTAT_LAST_PARAMETERS = null;
@@ -283,7 +283,7 @@ BX.ready(function() {
 		</div>
 		<div class="sidebar-pulse-cell-r">
 			<div class="sidebar-pulse-nums">
-				<div class="sidebar-pulse-counter" title="Активность компании на текущий момент (сумма действий всех сотрудников компании в течение последнего часа)."><span id="pulse-cnt"></span>6<div class="sidebar-pulse-counter-line"></div>
+				<div class="sidebar-pulse-counter" title="Активность компании на текущий момент (сумма действий всех сотрудников компании в течение последнего часа)."><span id="pulse-cnt"></span>0<div class="sidebar-pulse-counter-line"></div>
 				</div>
 				<div class="sidebar-pulse-percent" title="Текущая вовлеченность сотрудников - показывает, какой процент от всех сотрудников компании использовал за сегодня хотя бы четыре рабочих инструмента."><span id="pulse-rate"></span>0<span class="sidebar-pulse-percent-icon">%</span><div class="sidebar-pulse-percent-bg"></div>
 				</div>
