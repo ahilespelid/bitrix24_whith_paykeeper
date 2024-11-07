@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/js/deal_pay.js" => "1729515116780",]; ?>

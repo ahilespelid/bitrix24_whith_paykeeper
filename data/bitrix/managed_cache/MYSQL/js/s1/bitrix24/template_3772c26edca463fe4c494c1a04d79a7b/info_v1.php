@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/wg/crmpayment/WGCrmPayment.js" => "17304743475699","/bitrix/components/bitrix/app.placement/templates/menu/script.js" => "1728999452580",]; ?>

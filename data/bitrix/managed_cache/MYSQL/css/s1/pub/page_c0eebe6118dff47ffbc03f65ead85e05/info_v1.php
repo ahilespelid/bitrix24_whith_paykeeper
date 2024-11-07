@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/salescenter.pub.payment.slip/templates/.default/style.css" => "17289994747516",]; ?>

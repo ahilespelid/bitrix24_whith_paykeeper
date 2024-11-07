@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/wg/crmpayment/WGCrmPayment.js" => "17304578534859",]; ?>

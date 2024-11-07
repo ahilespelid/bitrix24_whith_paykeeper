@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/crm.order.check.details/templates/.default/style.css" => "1728999279467",]; ?>

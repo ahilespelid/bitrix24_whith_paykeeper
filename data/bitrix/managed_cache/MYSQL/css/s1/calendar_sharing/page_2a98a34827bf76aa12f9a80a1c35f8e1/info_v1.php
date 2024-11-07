@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/calendar.pub.sharing/templates/.default/style.css" => "17289992062678",]; ?>

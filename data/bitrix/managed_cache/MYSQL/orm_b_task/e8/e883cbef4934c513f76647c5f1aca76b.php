@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001729236847';
+$dateexpire = '001729240447';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:6:{i:0;a:7:{s:2:"ID";s:2:"73";s:4:"NAME";s:20:"landing_right_denied";s:6:"LETTER";s:1:"D";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}i:1;a:7:{s:2:"ID";s:2:"74";s:4:"NAME";s:18:"landing_right_read";s:6:"LETTER";s:1:"R";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}i:2;a:7:{s:2:"ID";s:2:"75";s:4:"NAME";s:18:"landing_right_edit";s:6:"LETTER";s:1:"U";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}i:3;a:7:{s:2:"ID";s:2:"76";s:4:"NAME";s:18:"landing_right_sett";s:6:"LETTER";s:1:"V";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}i:4;a:7:{s:2:"ID";s:2:"77";s:4:"NAME";s:20:"landing_right_public";s:6:"LETTER";s:1:"W";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}i:5;a:7:{s:2:"ID";s:2:"78";s:4:"NAME";s:20:"landing_right_delete";s:6:"LETTER";s:1:"X";s:9:"MODULE_ID";s:7:"landing";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:6:"module";}}}';
+return true;
+?>

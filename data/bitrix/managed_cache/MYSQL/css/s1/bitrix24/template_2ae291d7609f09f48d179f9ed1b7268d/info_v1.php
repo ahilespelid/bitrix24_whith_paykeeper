@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/ui.image.input/templates/.default/style.css" => "17289995485906",]; ?>

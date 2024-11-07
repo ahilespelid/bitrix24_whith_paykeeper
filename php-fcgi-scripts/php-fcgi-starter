@@ -1,0 +1,6 @@
+#!/bin/sh
+PHPRC=/usr/local/etc/php/cgi/
+export PHPRC
+export PHP_FCGI_MAX_REQUESTS=100
+export PHP_FCGI_CHILDREN=16
+exec /usr/local/bin/php-cgi

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001730198945';
+$dateexpire = '001730202545';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:11:{i:0;a:4:{s:12:"OPERATION_ID";s:3:"100";s:4:"NAME";s:9:"disk_read";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"100";}i:1;a:4:{s:12:"OPERATION_ID";s:3:"101";s:4:"NAME";s:8:"disk_add";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"101";}i:2;a:4:{s:12:"OPERATION_ID";s:3:"102";s:4:"NAME";s:9:"disk_edit";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"102";}i:3;a:4:{s:12:"OPERATION_ID";s:3:"103";s:4:"NAME";s:11:"disk_delete";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"103";}i:4;a:4:{s:12:"OPERATION_ID";s:3:"104";s:4:"NAME";s:13:"disk_start_bp";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"104";}i:5;a:4:{s:12:"OPERATION_ID";s:3:"105";s:4:"NAME";s:12:"disk_sharing";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"105";}i:6;a:4:{s:12:"OPERATION_ID";s:3:"106";s:4:"NAME";s:13:"disk_settings";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"106";}i:7;a:4:{s:12:"OPERATION_ID";s:3:"107";s:4:"NAME";s:12:"disk_destroy";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"107";}i:8;a:4:{s:12:"OPERATION_ID";s:3:"108";s:4:"NAME";s:12:"disk_restore";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"108";}i:9;a:4:{s:12:"OPERATION_ID";s:3:"109";s:4:"NAME";s:11:"disk_rights";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"109";}i:10;a:4:{s:12:"OPERATION_ID";s:3:"110";s:4:"NAME";s:14:"disk_create_wf";s:8:"UALIAS_0";s:2:"49";s:8:"UALIAS_1";s:3:"110";}}}';
+return true;
+?>

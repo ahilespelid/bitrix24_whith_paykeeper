@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/js/deal_pay.js" => "1729512323770","/bitrix/templates/bitrix24/bitrix24.js" => "172899961725366",]; ?>

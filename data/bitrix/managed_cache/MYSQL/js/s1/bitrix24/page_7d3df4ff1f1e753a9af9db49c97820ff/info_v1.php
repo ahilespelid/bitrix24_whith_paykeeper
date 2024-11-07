@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/ui.sidepanel.wrapper/templates/.default/template.js" => "17289995485071","/bitrix/components/bitrix/salescenter.smsprovider.panel/templates/.default/script.js" => "17289994757442",]; ?>

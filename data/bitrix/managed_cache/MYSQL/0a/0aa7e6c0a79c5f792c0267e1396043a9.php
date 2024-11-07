@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001729094603';
+$dateexpire = '001760630603';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{i:1;a:15:{s:2:"ID";s:1:"1";s:4:"NAME";s:3:"111";s:6:"ACTIVE";s:1:"N";s:7:"HANDLER";s:38:"\\Bitrix\\Sale\\Cashbox\\CashboxBusinessRu";s:5:"EMAIL";s:11:"aaa@qwe,com";s:4:"SORT";s:3:"100";s:11:"DATE_CREATE";O:25:"Bitrix\\Main\\Type\\DateTime":2:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2024-10-15 18:05:44.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:9:"Etc/GMT-3";}s:18:"'.chr(0).'*'.chr(0).'userTimeEnabled";b:1;}s:15:"DATE_LAST_CHECK";N;s:6:"KKM_ID";s:6:"evotor";s:3:"OFD";s:0:"";s:10:"NUMBER_KKM";s:3:"111";s:8:"SETTINGS";a:6:{s:4:"AUTH";a:2:{s:5:"LOGIN";s:3:"111";s:4:"PASS";s:3:"111";}s:7:"SERVICE";a:3:{s:3:"INN";s:5:"11111";s:9:"P_ADDRESS";s:5:"11111";s:5:"EMAIL";s:13:"aaa@qyoua.com";}s:6:"CLIENT";a:1:{s:4:"INFO";s:4:"NONE";}s:3:"TAX";a:1:{s:3:"SNO";s:3:"osn";}s:3:"VAT";a:4:{s:7:"NOT_VAT";s:4:"none";i:1;s:4:"vat0";i:2;s:4:"vat0";i:3;s:5:"vat20";}s:11:"INTERACTION";a:1:{s:12:"MODE_HANDLER";s:4:"TEST";}}s:12:"OFD_SETTINGS";a:0:{}s:11:"USE_OFFLINE";s:1:"N";s:7:"ENABLED";s:1:"Y";}}}';
+return true;
+?>
